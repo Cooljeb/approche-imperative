@@ -8,7 +8,7 @@ public class DeclarationApp {
         short monShort = 20;
         int monInt = 1452010;
         long monLong = 92233720368547758L;
-        float monFloat = 78954;
+        float monFloat = 78954.45f;
         double monDouble = 789545.45;
         char monChar = 'a';
         boolean monBoolean = true;
